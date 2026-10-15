@@ -1,0 +1,10 @@
+{
+  "description": "Streamline ECU diagnostics and repairs with a comprehensive dashboard for vehicle management, error code lookup, and customer records, tailored for automotive shops.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
